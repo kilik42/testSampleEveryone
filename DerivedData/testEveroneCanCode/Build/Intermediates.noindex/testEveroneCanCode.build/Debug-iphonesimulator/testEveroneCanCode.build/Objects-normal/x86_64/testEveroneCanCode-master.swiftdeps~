@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "5ac7763da99f94d50007da0b1ece6fbf"
+build_time: [1596558492, 858084000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/testEveroneCanCode/testEveroneCanCode/ViewController.swift": [1596558484, 816161780]
+  "/Users/marvinevins/Library/Autosave Information/testEveroneCanCode/testEveroneCanCode/AppDelegate.swift": [1596558484, 798665189]
+  "/Users/marvinevins/Library/Autosave Information/testEveroneCanCode/testEveroneCanCode/SceneDelegate.swift": [1596558484, 813785795]
